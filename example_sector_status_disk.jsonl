@@ -1,0 +1,13 @@
+{"begin":0,"sectors":160301056,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"P"}
+{"begin":160301056,"sectors":8192,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"F"}
+{"begin":160309248,"sectors":2048,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"P"}
+{"begin":160311296,"sectors":1024,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"F"}
+{"begin":160312320,"sectors":2048,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"P"}
+{"begin":160314368,"sectors":2048,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"F"}
+{"begin":160316416,"sectors":1024,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"P"}
+{"begin":160317440,"sectors":1024,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"F"}
+{"begin":160318464,"sectors":2048,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"P"}
+{"begin":160320512,"sectors":2048,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"F"}
+{"begin":160322560,"sectors":4096,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"P"}
+{"begin":160326656,"sectors":2048,"updated_at":"2026-06-08T23:09:53+02:00","globstatus":"F"}
+{"begin":160328704,"sectors":1793196464,"updated_at":"2026-06-09T00:10:41+02:00","globstatus":"P"}
